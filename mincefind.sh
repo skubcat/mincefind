@@ -2,11 +2,6 @@
 figlet -S -f fraktur mince
 figlet -S -f fraktur find
 
-echo "==========="
-echo "by gabriela"
-echo "moonsmoker@protonmail.com"
-printf "===========\n"
-
 RATE=10000
 RUN_DATE=$(date +"%H-%M-%b-%d")
 
